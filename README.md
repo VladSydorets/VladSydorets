@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there 👋 </h1>
+  <h1>Hi there, I'm Vlad 👋 </h1>
 
 ## My Stats
 [![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladSydorets&show_icons=true&theme=one_dark_pro&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
