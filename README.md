@@ -4,7 +4,7 @@
 </p>
   
 ## 🌟 About Me
-👋 Hi! I'm **<Vlad>**, a Software Engineer passionate about building modern web applications.  
+👋 Hi! I'm **Vlad**, a Software Engineer passionate about building modern web applications.  
 I have experience in **React, Vue.js, Node.js, and MongoDB**, and I'm currently exploring **TypeScript, Go and Backend Development**.
 
 - 🔭 I’m currently working on **Toki** app
@@ -26,7 +26,7 @@ I have experience in **React, Vue.js, Node.js, and MongoDB**, and I'm currently 
 
 ## 📫 Contact Me
 💬 **LinkedIn:** [linkedin.com/in/vlad-sydorets](https://linkedin.com/in/vlad-sydorets)  
-📧 **Email:** sidorecvv@gmail.com
+📧 **Email:** sidorecvv@gmail.com  
 🚀 **LeetCode:** [leetcode.com/sydorets](https://leetcode.com/sydorets)
 <!-- 💻 **Portfolio:** [yourwebsite.com](https://yourwebsite.com) *(if you have one)*  in progress -->
 
