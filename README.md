@@ -26,6 +26,7 @@ I have experience in **React, Vue.js, Node.js, and MongoDB**, and I'm currently 
 
 ## 📫 Contact Me
 💬 **LinkedIn:** [linkedin.com/in/vlad-sydorets](https://linkedin.com/in/vlad-sydorets)  
-📧 **Email:** sidorecvv@gmail.com  
-<!-- 💻 **Portfolio:** [yourwebsite.com](https://yourwebsite.com) *(if you have one)*  in progress -->
+📧 **Email:** sidorecvv@gmail.com
 🚀 **LeetCode:** [leetcode.com/sydorets](https://leetcode.com/sydorets)
+<!-- 💻 **Portfolio:** [yourwebsite.com](https://yourwebsite.com) *(if you have one)*  in progress -->
+
