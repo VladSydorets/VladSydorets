@@ -1,11 +1,6 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Vlad;Software+Engineer;Frontend+%7C+Backend+%7C+Full-Stack" alt="Typing SVG" />
-</p>
-  
 ## 🌟 About Me
-👋 Hi! I'm **Vlad**, a Software Engineer passionate about building modern web applications.  
-I have experience in **React, Vue.js, Node.js, and MongoDB**, and I'm currently exploring **TypeScript, Go and Backend Development**.
+A Software Engineer passionate about building modern web applications.  
+I have experience in **React, Vue.js, Node.js, and MongoDB**, and I'm currently exploring **TypeScript, Go, and Backend Development**.
 
 ## 🛠️ Tech Stack
 🔹 **Frontend:** React, Vue.js, Next.js  
