@@ -1,6 +1,6 @@
 ## 🌟 About Me
 A Software Engineer passionate about building modern web applications.  
-I have experience in **React, Vue.js, Node.js, and MongoDB**, and I'm currently exploring **TypeScript, Go, and Backend Development**.
+I have experience in **React, Vue.js, Node.js, and MongoDB**, and I'm currently exploring **TypeScript, Go, and React Native**.
 
 ## 🛠️ Tech Stack
 🔹 **Frontend:** React, Vue.js, Next.js  
@@ -17,6 +17,5 @@ I have experience in **React, Vue.js, Node.js, and MongoDB**, and I'm currently 
 ## 📫 Contact Me
 💬 **LinkedIn:** [linkedin.com/in/vlad-sydorets](https://linkedin.com/in/vlad-sydorets)  
 📧 **Email:** sidorecvv@gmail.com  
-<!-- 🚀 **LeetCode:** [leetcode.com/sydorets](https://leetcode.com/sydorets) -->
-<!-- 💻 **Portfolio:** [yourwebsite.com](https://yourwebsite.com) *(if you have one)*  in progress -->
-
+🚀 **LeetCode:** [leetcode.com/sydorets](https://leetcode.com/sydorets)
+💻 **Portfolio:** [vlad-sydorets.dev](https://vlad-sydorets.vercel.app)
