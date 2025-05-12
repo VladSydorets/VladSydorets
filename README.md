@@ -3,10 +3,10 @@ A Software Engineer passionate about building modern web applications.
 I have experience in **React, Vue.js, Node.js, and MongoDB**, and I'm currently exploring **TypeScript, Go, and React Native**.
 
 ## 🛠️ Tech Stack
-🔹 **Frontend:** React, Vue.js, Next.js  
+🔹 **Frontend:** React, Vue.js, Next.js, Nuxt.js, Svelte   
 🔹 **Backend:** Node.js, Express.js, Python, Flask, Go  
-🔹 **Databases:** MongoDB, PostgreSQL  
-🔹 **Other Tools:** Prisma, Git, Docker, Supabase  
+🔹 **Databases:** MongoDB, PostgreSQL, Supabase, Appwrite, Prisma  
+🔹 **Other Tools:** Git, Docker, Jenkins, CI/CD, Jira, Jest  
 
 ## 📈 GitHub Stats
 <p align="center">
