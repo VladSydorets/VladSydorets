@@ -1,17 +1,20 @@
 ## 🌟 About Me
-A Software Engineer passionate about building modern web applications.  
-I have experience in **React, Vue.js, Node.js, and Python**, and I'm currently exploring **Go and React Native**.
+Software Engineer with experience in building modern and scalable web applications.  
+Skilled in modern **JavaScript/TypeScript** frameworks: **React, Vue.js, Node.js**; and Python backends: **Django, Flask, FastAPI**.  
+Currently exploring **Go**.
 
 ## 🛠️ Tech Stack
 🔹 **Frontend:** React, Vue.js, Next.js, Nuxt.js, Svelte   
-🔹 **Backend:** Node.js, Express.js, Python, Flask, Django, Go  
-🔹 **Databases:** MongoDB, PostgreSQL, Supabase, Appwrite, Prisma  
-🔹 **Other Tools:** Git, Docker, Jenkins, CI/CD, Jira, Jest  
+🔹 **Backend:** Node.js, Express.js, Python, Flask, Django, FastAPI, Prisma (ORM)
+🔹 **Databases:** MongoDB, PostgreSQL  
+🔹 **Cloud & BaaS:** AWS, GCP, Firebase, Supabase, Appwrite  
+🔹 **Other Tools:** Git, Docker, CI/CD, Jenkins, Jira  
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VladSydorets&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VladSydorets&theme=radical" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladSydorets&theme=prussian" width="78%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VladSydorets&theme=prussian" width="39%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VladSydorets&theme=prussian" width="39%" />
 </p>
 
 ## 📫 Contact Me
